@@ -1,1 +1,0 @@
-# Sensex.py
