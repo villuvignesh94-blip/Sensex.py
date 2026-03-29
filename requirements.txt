@@ -1,9 +1,9 @@
 streamlit
 pandas
-pandas_ta
-nsepython
 smartapi-python
 pyotp
-requests
 logzero
+requests
 websocket-client
+nsepython
+pandas-ta
