@@ -6,4 +6,4 @@ logzero
 requests
 websocket-client
 nsepython
-pandas-ta
+pandas_ta
